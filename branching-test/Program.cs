@@ -10,6 +10,9 @@ namespace branching_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is the master branch. Command one.");
+
+            Console.ReadLine();
         }
     }
 }
