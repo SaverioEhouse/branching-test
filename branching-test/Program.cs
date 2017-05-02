@@ -18,6 +18,9 @@ namespace branching_test
 
             Console.WriteLine("Bugfix-1");
             Console.ReadLine();
+
+            Console.WriteLine("Dev merged with feature-x coming from elsewhere.");
+            Console.ReadLine();
         }
     }
 }
