@@ -57,6 +57,9 @@ namespace branching_test
 
             Console.WriteLine("...still going on...");
             Console.ReadLine();
+
+            Console.WriteLine("Dev is ready for going live");
+            Console.ReadLine();
         }
     }
 }
