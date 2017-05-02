@@ -20,6 +20,12 @@ namespace branching_test
             Console.ReadLine();
         }
 
+        static void feature3()
+        {
+            Console.WriteLine("This is the feature3");
+            Console.ReadLine();
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("This is the master branch. Command one.");
@@ -33,7 +39,8 @@ namespace branching_test
 
             feature1();
             feature2();
-            
+            feature3();
+
         }
     }
 }
