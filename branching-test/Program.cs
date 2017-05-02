@@ -13,7 +13,8 @@ namespace branching_test
             Console.WriteLine("This is the master branch. Command one.");
             Console.ReadLine();
 
-            
+            Console.WriteLine("This is the dev branch. Dev is progressing.");
+            Console.ReadLine();
         }
     }
 }
