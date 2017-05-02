@@ -45,6 +45,9 @@ namespace branching_test
 
             Console.WriteLine("Hotfix-1 - master");
             Console.ReadLine();
+
+            Console.WriteLine("Hotfix-2 - master");
+            Console.ReadLine();
         }
     }
 }
