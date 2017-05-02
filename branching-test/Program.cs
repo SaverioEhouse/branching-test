@@ -15,6 +15,9 @@ namespace branching_test
 
             Console.WriteLine("This is the dev branch. Dev is progressing.");
             Console.ReadLine();
+
+            Console.WriteLine("Bugfix-1");
+            Console.ReadLine();
         }
     }
 }
