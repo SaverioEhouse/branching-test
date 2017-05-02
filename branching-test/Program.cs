@@ -16,7 +16,10 @@ namespace branching_test
             Console.WriteLine("This is the dev branch. Command two.");
             Console.ReadLine();
 
-            Console.WriteLine("This is the coming from the Feature-1.");
+            Console.WriteLine("This is coming from the Feature-1.");
+            Console.ReadLine();
+
+            Console.WriteLine("This is still coming from the Feature-1. Commit 2.");
             Console.ReadLine();
         }
     }
