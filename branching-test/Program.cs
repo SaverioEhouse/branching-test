@@ -8,6 +8,12 @@ namespace branching_test
 {
     class Program
     {
+        static void Feature2()
+        {
+            Console.WriteLine("This is the feature2. This is going live.");
+            Console.ReadLine();
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("This is the master branch. Command one.");
