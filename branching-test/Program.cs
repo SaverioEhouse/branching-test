@@ -12,6 +12,9 @@ namespace branching_test
         {
             Console.WriteLine("This is the feature2. This is going live....And here is amended after test.");
             Console.ReadLine();
+
+            Console.WriteLine("Some progress after a while.");
+            Console.ReadLine();
         }
 
         static void Main(string[] args)
