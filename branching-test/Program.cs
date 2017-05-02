@@ -18,6 +18,7 @@ namespace branching_test
         {
             Console.WriteLine("This is the master branch. Command one.");
             Console.ReadLine();
+
             Console.WriteLine("Hotfix1.");
             Console.ReadLine();
 
