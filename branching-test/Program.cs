@@ -10,7 +10,7 @@ namespace branching_test
     {
         static void Feature2()
         {
-            Console.WriteLine("This is the feature2. This is going live.");
+            Console.WriteLine("This is the feature2. This is going live....And here is amended after test.");
             Console.ReadLine();
         }
 
