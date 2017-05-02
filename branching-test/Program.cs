@@ -13,6 +13,7 @@ namespace branching_test
             Console.WriteLine("This is the master branch. Command one.");
             Console.ReadLine();
 
+            #region dev
             Console.WriteLine("This is the dev branch. Command two.");
             Console.ReadLine();
 
