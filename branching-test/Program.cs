@@ -13,6 +13,9 @@ namespace branching_test
             Console.WriteLine("This is the master branch. Command one.");
 
             Console.ReadLine();
+
+            Console.WriteLine("This is the second change in dev branch.");
+            Console.ReadLine();
         }
     }
 }
