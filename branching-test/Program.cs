@@ -28,8 +28,12 @@ namespace branching_test
             Console.WriteLine("Hotfix1.");
             Console.ReadLine();
 
+            Console.WriteLine("Noooo...Hotfix2.");
+            Console.ReadLine();
+
             feature1();
             feature2();
+            
         }
     }
 }
