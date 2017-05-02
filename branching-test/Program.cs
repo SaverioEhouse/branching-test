@@ -42,6 +42,9 @@ namespace branching_test
             Console.ReadLine();
 
             #endregion
+
+            Console.WriteLine("Hotfix-1 - master");
+            Console.ReadLine();
         }
     }
 }
