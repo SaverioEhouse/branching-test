@@ -8,30 +8,9 @@ namespace branching_test
 {
     class Program
     {
-        static void Feature1()
-        {
-            Console.WriteLine("This is a feature-1 for future development.");
-            Console.ReadLine();
-
-            Console.WriteLine("Some progress after a while.");
-            Console.ReadLine();
-        }
-
         static void Main(string[] args)
         {
             Console.WriteLine("This is the master branch. Command one.");
-            Console.ReadLine();
-
-            Console.WriteLine("This is the dev branch. Dev is progressing.");
-            Console.ReadLine();
-
-            Console.WriteLine("Bugfix-1");
-            Console.ReadLine();
-
-            Console.WriteLine("Dev merged with feature-x coming from elsewhere.");
-            Console.ReadLine();
-
-            Console.WriteLine("Bugfix-2");
             Console.ReadLine();
         }
     }
