@@ -16,7 +16,7 @@ namespace branching_test
 
         static void feature2()
         {
-            Console.WriteLine("This is the feature2");
+            Console.WriteLine("This is the feature2 amended in release branch");
             Console.ReadLine();
         }
 
