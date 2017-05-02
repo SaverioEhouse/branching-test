@@ -21,6 +21,9 @@ namespace branching_test
 
             Console.WriteLine("This is still coming from the Feature-1. Commit 2.");
             Console.ReadLine();
+
+            Console.WriteLine("This change is done in dev branch. No further branch was used.");
+            Console.ReadLine();
         }
     }
 }
