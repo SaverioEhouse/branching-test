@@ -24,6 +24,9 @@ namespace branching_test
 
             Console.WriteLine("This change is done in dev branch. No further branch was used.");
             Console.ReadLine();
+
+            Console.WriteLine("This is the second change in dev branch.");
+            Console.ReadLine();
         }
     }
 }
