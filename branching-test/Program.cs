@@ -8,9 +8,9 @@ namespace branching_test
 {
     class Program
     {
-        static void Feature2()
+        static void Feature1()
         {
-            Console.WriteLine("This is the feature2. This is going live....And here is amended after test.");
+            Console.WriteLine("This is a feature-1 for future development.");
             Console.ReadLine();
         }
 
